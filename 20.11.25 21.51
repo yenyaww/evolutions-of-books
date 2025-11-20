@@ -1,0 +1,1347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Еволюція книги </title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/f77600b8df.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <div class="slide-first">
+            <div class="menu">
+                <img src="image_2025-10-18_11-15-02.png" class="first" />
+                <img src="image_2025-10-18_11-15-13.png" class="second" />
+            <div class="square">
+            <div class="menu-container">
+                    <img src="image-removebg-preview (1).png" class="search">                            
+                    <button class="menu-item">ГОЛОВНА СТОРІНКА</button>
+                    <button class="menu-item">ГЛИНЯНІ ТАБЛИЧКИ</button>
+                    <button class="menu-item">КОДЕКСИ</button>
+                    <button class="menu-item">РУКОПИСИ</button>
+                    <button class="menu-item">РУКОПІСНІ КНИГИ</button>
+                    <button class="menu-item">ДРУКАРСЬКИЙ ВЕРСТАТ</button>
+                    <button class="menu-item">ПЕРШІ БІБЛІОТЕКИ</button>
+                    <button class="menu-item">ПОПУЛЯРНІСТЬ КНИГИ</button>
+                    <button class="menu-item">POCKET BOOKS</button>
+                    <button class="menu-item">ЕЛЕКТРОННІ КНИГИ</button>
+                    <button class="menu-item">УКРАЇНСЬКІ КНИГИ</button>
+                    <button class="menu-item">ХМАРНІ КНИГИ</button>
+                    <button class="menu-item">ДУША КНИГ</button>
+                    <img src="image-removebg-preview (2).png" class="profile">
+            </div>
+            </div>
+        </div>
+        <img src="Sales_contract_Shuruppak_Louvre_AO3766 1.png" class="clay">
+        <img src="Americanstudbookvolume2open 1.png" class="book">
+        <img src="IFA_2010_Internationale_Funkausstellung_Berlin_79 1.png" class="e-book">
+        <h1 class="evolution">Еволюція книги: від глиняних дощечок до Kindle</h1>
+    </header>
+    <main>
+        <div class="slide-second">
+            <h1 class ="books-no-books">Коли книги ще не були книгами</h1>
+            <img src="Rectangle 15.png" class="title-one" />
+            <img src="oldest-dokuments-1 1.png" class="stone" />
+            <img src="Group 4.png" class="stick" />
+            <img src="Papiro_con_contratto_di_divorzio_fatto_dal_notaio_dioscoro,_P._Flor._I_93,_antonoe_569_dc. 1.png" class="papyrus" />
+            <img src="GM_1091 1.png" class="scroll" />
+            <img src="Line 2.png" class="line" />
+            <p class="first-sentence">Першими «сторінками» людства були глиняні таблички у стародавній Месопотамії (близько 3500 р. до н. е.).</p>
+            <p class="second-sentence">На них писали паличками по вологій глині, створюючи клинопис — одну з найдавніших систем письма.</p>
+            <p class="third-sentence">В Єгипті для письма використовували папірус, виготовлений із рослини, що росла вздовж Нілу. Саме звідти прийшло слово «папір».</p>
+            <p class="fourth-sentence">Єгипетські тексти зберігали у вигляді сувоїв, які скручувалися у рулони — їх вважали справжніми скарбами знань.</p>
+        </div>
+        <div class="slide-third">
+            <img src="Rectangle-15.png" class="title-two"/>
+            <h1 class ="birth-book">Народження книги як предмета</h1>
+            <img src="Line 2.png" class="line" />
+            <img src="Codex_Amiatinus_02 1.png" class="codex-books" />
+            <img src="Codex_Sinaiticus_Matthew_6,4-32 1.png" class="pages-of-codex" />
+            <img src="Parigi,_virgilio,_opera,_1403,_med._pal._69,_02_georgiche 1.png" class="codex" />
+            <img src="unnamed 1.png" class="pages-of-codex2" />
+            <p class="fifth-sentence">Перші справжні книги — кодекси — з’явилися у Римській імперії приблизно у I–II столітті н. е.</p>
+            <p class="sixth-sentence">Вони складалися з окремих сторінок, зшитих разом, і вже тоді нагадували сучасну форму книги.</p>
+            <p class="seventh-sentence"> Кодекс виявився набагато зручнішим за сувої: можна було швидко гортати сторінки, робити закладки і навіть писати коментарі на полях.</p>
+        <div class="slide-fourth">
+            <img src="Rectangle 16.png" class="title-three"/>
+            <h1 class ="manuscript-era">Рукописна епоха - коли кожна книга була унікальною</h1>
+            <img src="Line 2.png" class="line" />
+            <img src="images 1.png" class="writer" />
+            <img src="95093531_2849236095196219_6150658042800111616_n 1.png" class="writer2" />
+            <img src="800px-BH_Selestat_3 1.png" class="parchment-pages" />
+            <img src="Family-bible 1.png" class="bible" />
+            <p class="eighth-sentence">У Середньовіччі книги створювалися вручну монахами-переписувачами у монастирях. <br>Кожна літера виводилась з великою уважністю, а помилки могли коштувати місяців роботи.</p>
+            <p class="nineth-sentence">Сторінки робили з пергаменту — спеціально обробленої шкіри телят або овець.</p>
+            <p class="tenth-sentence">На створення однієї Біблії могло піти до десяти років!</p>
+        <div class="slide-fifth">
+            <img src="Rectangle 17.png" class="title-four"/>
+            <h1 class ="book-art"> Книга як витвір мистецтва</h1>
+            <img src="Line 2.png" class="line" />
+            <img src="4e6a345e4cc70d0b891bd86f378bce67 1.png" class="golden-book" />
+            <img src="4b7d83806e8bd995972372aca927d48f 1.png" class="illuminated-manuscripts" />
+            <img src="KellsFol292rIncipJohn 1.png" class="Kells-book" />
+            <img src="кенллская_книга 1.png" class="Kells-book2" />
+            <p class="eleventh-sentence">Рукописні книги прикрашали золотом, яскравими фарбами, орнаментами і мініатюрами.</p>
+            <p class="twelfth-sentence">  Такі книги називали “ілюмінованими манускриптами”.</p>
+            <p class="thirteenth-sentence">Наприклад, «Келлська книга» (IX ст.) настільки красиво оформлена, що її називають «найпрекраснішою книгою у світі». Деякі середньовічні книги коштували дорожче за замки й землі!</p>
+        <div class="slide-sixth">
+            <img src="Rectangle 18.png" class="title-five"/>
+            <img src="Line 2.png" class="line" />
+            <h1 class ="invention">Винахід, що змінив світ</h1>
+            <img src="download 1.png" class="printing-press" />
+            <img src="2612878 1.png" class="printing-press2" />
+            <img src="Gutenberg_bible_Old_Testament_Epistle_of_St_Jerome 1.png" class="Gutenberg-Bible" />
+            <img src="Gutenberg_Bible_Mainz_Copy 1.png" class="Gutenberg-Bible2" />
+            <p class="fourteenth-sentence"> У 1450-х роках німець Йоганн Гутенберг винайшов друкарський верстат з рухомими літерами. Це дозволило друкувати сотні копій швидко та точно.</p>
+            <p class="fifteenth-sentence">Першою масово надрукованою книгою стала Біблія Гутенберга (близько 1455 року). Вона мала понад 1200 сторінок і донині вважається символом нової епохи — епохи знань.</p>
+            <p class="sixteenth-sentence">Саме друкарство стало основою Відродження та Просвітництва в Європі.</p>
+        <div class="slide-seventh">
+            <img src="Rectangle 19.png" class="title-six"/>
+            <img src="Line 2.png" class="line" />
+            <h1 class ="library">Бібліотеки — храми людської пам’яті</h1>
+            <img src="ба1 1.png" class="Ashurbanipal-library" />
+            <img src="dvorets-ashshurbanipala 1.png" class="monks" />
+            <img src="library_of_alexandria 1.png" class="Oleksandriyska-library" />
+            <img src="prichiny-ischeznoveniya-biblioteki-do-sih-por-neizvestny-1024x600 1.png" class="Oleksandriyska-library2" />
+            <p class="seventeenth-sentence"> Одна з найдавніших бібліотек — бібліотека Ашшурбанапала в Ніневії (VII ст. до н. е.) — зберігала понад 30 тисяч глиняних табличок!</p>
+            <p class="eighteenth-sentence">У Середньовіччі бібліотеки існували при монастирях, а потрапити до них могли лише освічені монахи.</p>
+            <p class="nineteenth-sentence">Легендарна Олександрійська бібліотека вміщувала сотні тисяч сувоїв і вважалася центром науки античного світу.</p>
+        <div class="slide-eighth">
+            <img src="Rectangle 20.png" class="title-six"/>
+            <img src="Line 2.png" class="line" />
+            <h1 class ="travel-book">Книга стає мандрівницею</h1>
+            <img src="unnamed 2.png" class="steam-engine" />
+            <img src="depositphotos_22387511-stock-photo-student-holding-old-books 1.png" class="many-books" />
+            <img src="28_Halych_bahn 1.png" class="train-stations" />
+            <p class="twentieth-sentence">У XIX столітті завдяки паровим друкарським машинам книги стали масовим продуктом.</p>
+            <p class="twenty-first-sentence">Їх продавали на вокзалах і ярмарках — саме тоді з’явилися перші дешеві романи для народу. Читання стало частиною подорожей, дозвілля та повсякденного життя.</p>
+        <div class="slide-nineth">
+            <img src="Rectangle 22.png" class="title-six"/>
+            <img src="Line 2.png" class="line" />
+            <h1 class ="book-revolution">Кишенькова книга — революція у форматі</h1>
+            <img src="00tinybooks2-videoSixteenByNine3000 1.png" class="mini-books" />
+            <img src="image 4.png" class="mini-books2" />
+            <img src="480697827_946888624236915_8931245573084583463_n 1.png" class="train" />
+            <img src="store_lines-min 1.png" class="turn" />
+            <img src="photo 1.png" class="holliday" />
+            <p class="twenty-second-sentence">У 1930-х роках з’явилися Pocket Books — перші книги, які можна було носити в кишені. Це зробило читання доступним усім: від студентів до робітників.</p>
+            <p class="twenty-third-sentence">З того часу книга стала справжнім супутником людини у транспорті, чергах, відпустках.</p>
+        <div class="slide-tenth">
+            <img src="Rectangle 23.png" class="title-six"/>
+            <img src="Line 2.png" class="line" />
+            <h1 class ="book-born">Народження електронної книги</h1>
+            <img src="Project_Gutenberg_logo.svg 1.png" class="gutenberg" />
+            <img src="image 5.png" class="phones-e-book" />
+            <img src="429023246 1.png" class="tablet-e-book" />
+            <p class="twenty-fourth-sentence">Перша електронна книга була створена у 1971 році — це «Проєкт Ґутенберг», який започаткував еру цифрового читання.</p>
+            <p class="twenty-fifth-sentence">У 2007 році вийшов перший Amazon Kindle, і він розкупився за кілька годин. Сьогодні електронні книги доступні у смартфонах, планшетах і навіть годинниках.</p>
+        <div class="slide-eleventh">
+            <img src="Rectangle 24.png" class="title-six"/>
+            <img src="Line 2.png" class="line" />
+            <h1 class ="book-in-clouds">Книги тепер живуть у хмарах</h1>
+            <img src="00b 1.png" class="clouds" />
+            <img src="Хмарн-технології 1.png" class="clouds-technology" />
+            <img src="SHI-600x282 1.png" class="SHI" />
+            <img src="630_360_1690199761-516 1.png" class="SHI2" />
+            <p class="twenty-sixth-sentence">Завдяки хмарним технологіям ти можеш мати цілу бібліотеку у кишені. Онлайн-платформи дозволяють зберігати, ділитися і навіть створювати власні книги.</p>
+            <p class="twenty-seventh-sentence">Штучний інтелект тепер здатен писати тексти, створювати ілюстрації та верстати книги автоматично — нова епоха книготворення вже почалася.</p>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+    </main>
+</body>
+</html>
+
+
+
+
+
+
+
+CSS
+.slide-first {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 1345px;
+    height: 700px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #F5E6C4 0%, #7B3F00 100%);
+}
+
+.first {
+    position: absolute;
+    z-index: 2;
+    width: 4%;
+    height: 10%;
+    position: absolute;
+    top: 3px;
+    left: 80px;
+}
+
+.second {
+    position: absolute;
+    z-index: 2;
+    width: 4%;
+    height: 10%;
+    position: absolute;
+    top: 3px;
+    left: 1190px;
+}
+
+.square {
+    margin-left: 200px;
+    border-radius: 50px;
+    width: 1100px;
+    height: 52px;
+    background-color: rgb(220, 205, 186);
+    position: absolute;
+    top: 10px;
+    left: -90px;
+}
+
+.menu-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0px;
+    padding-left: 0px;
+    padding-top: 6px;
+}
+
+.menu-item {
+    background-color: #d9d2c6;
+    border-radius: 50%;
+    width: 120px;
+    height: 40px;
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+    border: none;
+    font-family: Rubik Spray Paint;
+}
+
+.menu-item:hover {
+    background-color: #c0b3a0;
+}
+
+.search,
+.profile {
+    z-index: 2;
+    width: 40px;
+    height: 40px;
+    background-color: #d9d2c6;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.clay {
+    width: 350px;
+    height: 320px;
+    position: absolute;
+    top: 100px;
+    left: 0px;
+}
+
+.book {
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    top: 370px;
+    left: 470px;
+}
+
+.e-book {
+    width: 300px;
+    height: 450px;
+    position: absolute;
+    top: 150px;
+    left: 1000px;
+}
+
+.arrow1 {
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 350px;
+    left: 130px;
+}
+
+.arrow2 {
+    width: 400px;
+    height: 75px;
+    position: absolute;
+    top: 372px;
+    left: 650px;
+}
+
+.evolution {
+    font-size: 70px;
+    font-family: Great Vibes;
+    position: absolute;
+    top: 50px;
+    left: 370px;
+    right: 360px;
+}
+
+.slide-second {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 1345px;
+    height: 700px;
+    left: 0px;
+    top: 700px;
+    background: linear-gradient(180deg, #7B3F00 0%, #F5E6C4 100%);
+}
+
+.books-no-books {
+    font-size: 55px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: -20px;
+    left: 250px;
+}
+
+.title-one {
+    margin-left: 200px;
+    border-radius: 50px;
+    width: 1075px;
+    height: 73px;
+    position: absolute;
+    top: 12px;
+    left: -75px;
+}
+
+.stone {
+    width: 350px;
+    height: 320px;
+    position: absolute;
+    top: 75px;
+    left: 5px;
+}
+
+.stick {
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    top: 430px;
+    left: 330px;
+}
+
+.line {
+    position: absolute;
+    width: 3px;
+    height: 630px;
+    top: 70px;
+    left: 681px;
+}
+
+.papyrus {
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    top: 125px;
+    left: 710px;
+}
+
+.scroll {
+    width: 362px;
+    height: 222px;
+    position: absolute;
+    top: 430px;
+    left: 980px;
+}
+
+.arrow3 {
+    width: 100px;
+    height: 180px;
+    position: absolute;
+    top: 250px;
+    left: 280px;
+}
+
+.arrow4 {
+    width: 250px;
+    height: 70px;
+    position: absolute;
+    top: 430px;
+    left: 85px;
+}
+
+.arrow5 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 130px;
+    left: 1060px;
+}
+
+.arrow6 {
+    width: 170px;
+    height: 50px;
+    position: absolute;
+    top: 480px;
+    left: 815px;
+}
+
+.first-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    position: absolute;
+    top: 150px;
+    left: 370px;
+    right: 672px;
+}
+
+.second-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    position: absolute;
+    top: 470px;
+    left: 20px;
+    right: 1002px;
+}
+
+.third-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    position: absolute;
+    top: 150px;
+    left: 1080px;
+    right: 5px;
+}
+
+.fourth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    position: absolute;
+    top: 420px;
+    left: 720px;
+    right: 380px;
+}
+
+.slide-third {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 1345px;
+    height: 700px;
+    left: 0px;
+    top: 1400px;
+    background: linear-gradient(180deg, #F5E6C4 0%, #5B3A29 100%);
+}
+
+.title-two {
+    margin-left: 200px;
+    border-radius: 50px;
+    width: 1075px;
+    height: 73px;
+    position: absolute;
+    top: 12px;
+    left: -75px;
+}
+
+.birth-book {
+    font-size: 55px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: -35px;
+    left: 250px;
+}
+
+.codex-books {
+    transform: rotate(-90deg);
+    width: 240px;
+    height: 340px;
+    position: absolute;
+    top: 380px;
+    left: 55px;
+}
+
+.pages-of-codex {
+    transform: rotate(-90deg);
+    width: 382px;
+    height: 382px;
+    position: absolute;
+    top: 300px;
+    left: 950px;
+}
+
+.codex {
+    transform: rotate(-90deg);
+    width: 354px;
+    height: 304px;
+    position: absolute;
+    top: 90px;
+    left: 350px;
+}
+
+.pages-of-codex2 {
+    transform: rotate(-90deg);
+    width: 362px;
+    height: 222px;
+    position: absolute;
+    top: 380px;
+    left: 630px;
+}
+
+.fifth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 150px;
+    left: 20px;
+    right: 1000px;
+}
+
+.sixth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 470px;
+    left: 370px;
+    right: 700px;
+}
+
+.seventh-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 100px;
+    left: 750px;
+    right: 280px;
+}
+
+.arrow7 {
+    width: 100px;
+    height: 70px;
+    position: absolute;
+    top: 150px;
+    left: 270px;
+}
+
+.arrow8 {
+    width: 150px;
+    height: 70px;
+    position: absolute;
+    top: 615px;
+    left: 300px;
+}
+
+.arrow9 {
+    width: 170px;
+    height: 100px;
+    position: absolute;
+    top: 200px;
+    left: 1000px;
+}
+
+.slide-fourth {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 1345px;
+    height: 700px;
+    left: 0px;
+    top: 700px;
+    background: linear-gradient(180deg, #5B3A29 0%, #B0B0B0 100%);
+}
+
+.title-three {
+    margin-left: 200px;
+    border-radius: 50px;
+    width: 1300px;
+    height: 80px;
+    position: absolute;
+    top: 3px;
+    left: -190px;
+}
+
+.manuscript-era {
+    font-size: 50px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: -25px;
+    left: 50px;
+}
+
+.writer {
+    width: 270px;
+    height: 370px;
+    position: absolute;
+    top: 100px;
+    left: 20px;
+}
+
+.writer2 {
+    width: 380px;
+    height: 270px;
+    position: absolute;
+    top: 400px;
+    left: 290px;
+}
+
+.parchment-pages {
+    width: 362px;
+    height: 242px;
+    position: absolute;
+    top: 100px;
+    left: 700px;
+}
+
+.bible {
+    width: 223px;
+    height: 324px;
+    position: absolute;
+    top: 360px;
+    left: 1080px;
+}
+
+.eighth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 150px;
+    left: 320px;
+    right: 700px;
+}
+
+.nineth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 150px;
+    left: 1080px;
+    right: 10px;
+}
+
+.tenth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 470px;
+    left: 750px;
+    right: 300px;
+}
+
+.arrow10 {
+    width: 50px;
+    height: 100px;
+    position: absolute;
+    top: 300px;
+    left: 270px;
+}
+
+.arrow11 {
+    width: 170px;
+    height: 100px;
+    position: absolute;
+    top: 470px;
+    left: 150px;
+}
+
+.arrow12 {
+    width: 170px;
+    height: 100px;
+    position: absolute;
+    top: 275px;
+    left: 1050px;
+}
+
+.arrow13 {
+    width: 170px;
+    height: 100px;
+    position: absolute;
+    top: 400px;
+    left: 900px;
+}
+
+.slide-fifth {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 1345px;
+    height: 700px;
+    left: 0px;
+    top: 700px;
+    background: linear-gradient(180deg, #B0B0B0 20%, #207567 100%);
+}
+
+.title-four {
+    margin-left: 200px;
+    border-radius: 50px;
+    width: 1300px;
+    height: 80px;
+    position: absolute;
+    top: 3px;
+    left: -190px;
+}
+
+.book-art {
+    font-size: 64px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: -40px;
+    left: 280px;
+}
+
+.golden-book {
+    width: 350px;
+    height: 238px;
+    position: absolute;
+    top: 100px;
+    left: 30px;
+}
+
+.illuminated-manuscripts {
+    width: 380px;
+    height: 280px;
+    position: absolute;
+    top: 370px;
+    left: 280px;
+}
+
+.Kells-book {
+    width: 270px;
+    height: 370px;
+    position: absolute;
+    top: 200px;
+    left: 700px;
+}
+
+.Kells-book2 {
+    width: 370px;
+    height: 230px;
+    position: absolute;
+    top: 450px;
+    left: 970px;
+}
+
+.eleventh-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 110px;
+    left: 430px;
+    right: 700px;
+}
+
+.twelfth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 450px;
+    left: 50px;
+    right: 1000px;
+}
+
+.thirteenth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 150px;
+    left: 1000px;
+    right: 30px;
+}
+
+.arrow14 {
+    width: 170px;
+    height: 100px;
+    position: absolute;
+    top: 340px;
+    left: 100px;
+}
+
+.arrow15 {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 210px;
+    left: 380px;
+}
+
+.arrow16 {
+    width: 400px;
+    height: 100px;
+    position: absolute;
+    top: 120px;
+    left: 900px;
+}
+
+.arrow17 {
+    width: 170px;
+    height: 320px;
+    position: absolute;
+    top: 135px;
+    left: 1150px;
+}
+
+.slide-sixth {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 1345px;
+    height: 700px;
+    left: 0px;
+    top: 700px;
+    background: linear-gradient(180deg, #207567 0%, #EFC7C2 100%);
+}
+
+.title-five {
+    margin-left: 200px;
+    border-radius: 50px;
+    width: 1300px;
+    height: 80px;
+    position: absolute;
+    top: 3px;
+    left: -190px;
+}
+
+.invention {
+    font-size: 64px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: -40px;
+    left: 380px;
+}
+
+.printing-press {
+    width: 350px;
+    height: 400px;
+    z-index: 2;
+    position: absolute;
+    top: 100px;
+    left: 315px;
+}
+
+.printing-press2 {
+    width: 400px;
+    height: 250px;
+    position: absolute;
+    top: 430px;
+    left: 30px;
+}
+
+.Gutenberg-Bible {
+    width: 303px;
+    height: 470px;
+    position: absolute;
+    top: 80px;
+    left: 700px;
+}
+
+.Gutenberg-Bible2 {
+    width: 350px;
+    height: 238px;
+    position: absolute;
+    top: 420px;
+    left: 970px;
+}
+
+.fourteenth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 150px;
+    left: 30px;
+    right: 1050px;
+}
+
+.fifteenth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 120px;
+    left: 1030px;
+    right: 30px;
+}
+
+.sixteenth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 550px;
+    left: 550px;
+    right: 530px;
+}
+
+.arrow18 {
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    top: 65px;
+    left: 230px;
+}
+
+.arrow19 {
+    width: 170px;
+    height: 170px;
+    position: absolute;
+    top: 260px;
+    left: 5px;
+}
+
+.arrow20 {
+    width: 170px;
+    height: 150px;
+    position: absolute;
+    top: 265px;
+    left: 1150px;
+}
+
+.arrow21 {
+    width: 220px;
+    height: 40px;
+    position: absolute;
+    top: 355px;
+    left: 1000px;
+}
+
+.slide-seventh {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 1345px;
+    height: 700px;
+    left: 0px;
+    top: 700px;
+    background: linear-gradient(180deg, #EFC7C2 20%, #00B3FF 100%);
+}
+
+.title-six {
+    margin-left: 200px;
+    border-radius: 50px;
+    width: 1300px;
+    height: 80px;
+    position: absolute;
+    top: 3px;
+    left: -190px;
+}
+
+.library {
+    font-size: 64px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: -40px;
+    left: 180px;
+}
+
+.Ashurbanipal-library {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 100px;
+    left: 270px;
+}
+
+.monks {
+    width: 450px;
+    height: 250px;
+    position: absolute;
+    top: 430px;
+    left: 5px;
+}
+
+.Oleksandriyska-library {
+    width: 380px;
+    height: 280px;
+    z-index: 2;
+    position: absolute;
+    top: 150px;
+    left: 950px;
+}
+
+.Oleksandriyska-library2 {
+    width: 430px;
+    height: 280px;
+    position: absolute;
+    top: 400px;
+    left: 700px;
+}
+
+.seventeenth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 120px;
+    left: 30px;
+    right: 1090px;
+}
+
+.eighteenth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 430px;
+    left: 470px;
+    right: 690px;
+}
+
+.nineteenth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: 120px;
+    left: 730px;
+    right: 400px;
+}
+
+.arrow22 {
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+}
+
+.arrow23 {
+    width: 220px;
+    height: 70px;
+    position: absolute;
+    top: 355px;
+    left: 10px;
+}
+
+.arrow24 {
+    width: 220px;
+    height: 70px;
+    position: absolute;
+    top: 105px;
+    left: 900px;
+}
+
+.arrow25 {
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px;
+    left: 720px;
+}
+
+.slide-eighth {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 1345px;
+    height: 700px;
+    left: 0px;
+    top: 700px;
+    background: linear-gradient(180deg, #00B3FF 20%, #B4E2C5 100%);
+}
+
+.title-seven {
+    margin-left: 200px;
+    border-radius: 50px;
+    width: 1300px;
+    height: 80px;
+    position: absolute;
+    top: 3px;
+    left: -190px;
+}
+
+.travel-book {
+    font-size: 64px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: -40px;
+    left: 350px;
+}
+
+.steam-engine {
+    width: 300px;
+    height: 350px;
+    z-index: 2;
+    position: absolute;
+    top: 100px;
+    left: 350px;
+}
+
+.many-books {
+    width: 420px;
+    height: 300px;
+    position: absolute;
+    top: 390px;
+    left: 30px;
+}
+
+.train-stations {
+    width: 500px;
+    height: 350px;
+    position: absolute;
+    top: 300px;
+    left: 830px;
+}
+
+.twentieth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    position: absolute;
+    top: 160px;
+    left: 80px;
+    right: 1000px;
+}
+
+.twenty-first-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    position: absolute;
+    top: 120px;
+    left: 700px;
+    right: 100px;
+}
+
+.slide-nineth {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 1345px;
+    height: 700px;
+    left: 0px;
+    top: 700px;
+    background: linear-gradient(180deg, #B4E2C5 20%, #D9BBA9 100%);
+}
+
+.book-revolution {
+    font-size: 64px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: -40px;
+    left: 50px;
+}
+
+.mini-books {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 370px;
+    left: 10px;
+}
+
+.mini-books2 {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 250px;
+    left: 270px;
+}
+
+.train {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 100px;
+    left: 930px;
+}
+
+.turn {
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    z-index: 3;
+    top: 330px;
+    left: 930px;
+}
+
+.holliday {
+    width: 370px;
+    height: 270px;
+    position: absolute;
+    top: 410px;
+    left: 750px;
+}
+
+.twenty-second-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    right: 800px;
+}
+
+.twenty-third-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    position: absolute;
+    top: 150px;
+    left: 690px;
+    right: 430px;
+}
+
+.slide-tenth {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 1345px;
+    height: 700px;
+    left: 0px;
+    top: 700px;
+    background: linear-gradient(180deg, #D9BBA9 20%, #C9A66B 100%);
+}
+
+
+.book-born {
+    font-size: 64px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: -40px;
+    left: 250px;
+}
+
+.gutenberg {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 130px;
+    left: 430px;
+}
+
+.phones-e-book {
+    width: 350px;
+    height: 350px;
+    z-index: 2;
+    position: absolute;
+    top: 330px;
+    left: 730px;
+}
+
+.tablet-e-book {
+    width: 450px;
+    height: 450px;
+    position: absolute;
+    top: 100px;
+    left: 870px;
+}
+
+.twenty-fourth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    position: absolute;
+    top: 130px;
+    left: 50px;
+    right: 900px;
+}
+
+.twenty-fifth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    position: absolute;
+    top: 450px;
+    left: 50px;
+    right: 800px;
+}
+
+
+.slide-eleventh {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 1345px;
+    height: 700px;
+    left: 0px;
+    top: 700px;
+    background: linear-gradient(180deg, #C9A66B 20%, #A6B1E1 100%);
+}
+
+.book-in-clouds {
+    font-size: 64px;
+    font-family: Great Vibes;
+    z-index: 2;
+    position: absolute;
+    top: -40px;
+    left: 250px;
+}
+
+.clouds {
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 130px;
+    left: 370px;
+}
+
+.clouds-technology {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 370px;
+    left: 42px;
+}
+
+.SHI {
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    top: 130px;
+    left: 950px;
+}
+
+.SHI2 {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 370px;
+    left: 730px;
+}
+
+.twenty-sixth-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    position: absolute;
+    top: 450px;
+    left: 50px;
+    right: 800px;
+}
+
+.twenty-seventh-sentence {
+    font-size: 24px;
+    font-family: Great Vibes;
+    position: absolute;
+    top: 450px;
+    left: 50px;
+    right: 800px;
+}
